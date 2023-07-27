@@ -6,6 +6,5 @@ In windows operating system, passwords saved in chrome browser are in a local da
   3- It uses CryptUnprotectData function to return the passwords in plaintext.
   4- It sends the data to the server through sockets.
 
-The server is running on a linux machine and waiting for the data from the windows machine to be displayed once received.
-<br><br>
+The servers is running on a linux machine and waiting for the data from the windows machine to be displayed once received.
 **
