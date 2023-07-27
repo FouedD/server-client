@@ -7,4 +7,5 @@ In windows operating system, passwords saved in chrome browser are in a local da
   4- It sends the data to the server through sockets.
 
 The servers is running on a linux machine and waiting for the data from the windows machine to be displayed once received.
+X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
 **
